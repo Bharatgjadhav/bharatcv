@@ -1,0 +1,97 @@
+{
+  "main": {
+    "name": "Bharat G Jadhav",
+    "occupation": "(Devops Engineer)",
+    "description": "To secure a challenging position where I can effectively contribute my skills and innovative ideas to propel the organization in achieving its goals and objectives and gain knowledge in a work oriented environment",
+    "image": "profilepic.jpg",
+    "bio": "To secure a challenging position where I can effectively contribute my skills and innovative ideas to propel the organization in achieving its goals and objectives and gain knowledge in a work oriented environment",
+    "email": "bharatjadhav04@gmail.com",
+    "phone": "9742978015",
+    "address": {
+      "street": "Gokul road",
+      "city": "Hubli",
+      "state": "karnataka",
+      "zip": "580030"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1hdJxprUzB2OdiABefLJW_bV8nPuk-JUO/view?usp=drivesdk",
+    "social": [
+      
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/4bharatjadhav",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://linkedin.com/in/bharat-jadhav-226212191",
+        "className": "fa fa-linkedin"
+      },
+      
+      {
+        "name": "github",
+        "url": "https://github.com/Bharatgjadhav",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "KLEIT,VTU",
+        "degree": "BE In Information Science and Engineering",
+        "graduated": "01/10/2020",
+        "description": "Secured 63%"
+      },
+      {
+        "school": "KLE CIM Polytechnic,Hubli",
+        "degree": "Diploma In Computer Science And Engineering",
+        "graduated": "01/06/2017",
+        "description": "Secured 66%"
+      }
+    ],
+    "work": [
+      {
+        "company": "Samarth Meditech",
+        "title": "Junior developer",
+        "years": "Oct 2020 - april 2021",
+        "description": "Currently working as an intern at Samarth Meditech, a start-up,since six months on end-to-end website development and Employee Management Application with Node Js Technology."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      
+      {
+        "name": "Mysql",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+     
+      
+    ]
+  }
+}
